@@ -3,5 +3,5 @@
 #Using our Full-stack project repository to review, revisit code and change code styles.
 
 Team members:
-Likhitha Vanga
+Likhitha Vanga, 
 Jaya Bhargavi Vengala
