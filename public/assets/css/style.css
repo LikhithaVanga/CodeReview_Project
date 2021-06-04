@@ -447,18 +447,7 @@ section h3.section-subheading {
     margin-top: -12px;
 }
 
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
-#portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
-    margin: 0;
-}
 
-#portfolio .portfolio-item .portfolio-caption {
-    margin: 0 auto;
-    padding: 25px;
-    max-width: 400px;
-    text-align: center;
-    background-color: #fff;
-}
 
 #portfolio .portfolio-item .portfolio-caption h4 {
     margin: 0;
@@ -689,12 +678,7 @@ section h3.section-subheading {
     margin-top: 0;
 }
 
-section#contact {
-    /*    background-color: #222;
-    background-image: url(../images/after_evac_by_tryingtofly-dauf4er.jpg);
-    background-position: center;
-    background-repeat: no-repeat;*/
-}
+
 
 section#contact .section-heading {
     color: #fff;
