@@ -23,6 +23,7 @@ mongoose.set('useUnifiedTopology', true);
 //connection to DB
 mongoose.connect('mongodb+srv://lataco:latacofullstack@lataco.ebiv5.mongodb.net/lataco?retryWrites=true&w=majority' || 'mongodb://localhost:27017/foodCart', {useNewUrlParser: true},function(err)
 {
+  //throw error if not connected to db
   if(err)
   {
     console.log('Not connected to the database '+ err);
