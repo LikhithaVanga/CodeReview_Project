@@ -174,9 +174,12 @@ angular.module('cartController', [])
     var total = 0;
     for(var i=0; i<cartRows.length; i++)
     {
-      var cartRow = cartRows[i];
+      var cartRow = cartRows[i]; 
+      // items in cart
       var priceElement = cartRow.getElementsByClassName('cart-price')[0];
+      // price of each element
       var quantityElement = cartRow.getElementsByClassName('cart-quantity-input')[0];
+      // quantity of each Element
       var price = parseFloat(priceElement.innerText.replace('$', ''));
       var quantity = quantityElement.value;
       total = total + (price * quantity);
