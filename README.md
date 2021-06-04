@@ -1,4 +1,7 @@
-# FULLSTACK-PROJECT
+# Code review Project
 
-## Team Members:
-* [Swetha Venkatesan](https://github.com/swet09), [Sree Vandana Nadipalli](https://github.com/Sree-Vandana), [Likhitha Vanga](https://github.com/LikhithaVanga)
+#Using our Full-stack project repository to review, revisit code and change code styles.
+
+Team members:
+Likhitha Vanga, 
+Jaya Bhargavi Vengala
